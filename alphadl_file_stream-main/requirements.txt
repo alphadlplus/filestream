@@ -1,0 +1,5 @@
+aiohttp==3.9.0b0
+pyrogram<=2.0.106
+python-dotenv<=0.20.0
+tgcrypto<=1.2.3
+requests
